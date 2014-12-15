@@ -5,7 +5,7 @@ This is the Hurricane Sandy Twitter dataset. Details on the dataset can be found
 
 Haoyu Wang, Eduard Hovy, Mark Dredze. The Hurricane Sandy Twitter Corpus. AAAI Workshop on the World Wide Web and Public Health Intelligence, 2015.
 
-Please use this citation if you use the dataset,
+Please use this citation if you use the dataset.
 
 File Format
 ==========
